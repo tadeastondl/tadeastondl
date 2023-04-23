@@ -1,6 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
+## Something about me: 
+ My name is Tadeáš Tondl and I am a young IT student. 
+
+ I am 19 years old and currently live in Czechia 🇨🇿 
+
+I make websites, applications and can work with servers. My favorite is creating websites.
+
+### Operating systems: Windows, Linux
+### Languages: Javascrypt, Java, Python, C, C++
+
+ <!--
 **tadeastondl/tadeastondl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
