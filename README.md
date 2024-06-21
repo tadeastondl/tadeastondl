@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Something about me: 
- My name is Tadeas Tondl and I am a young IT Apprentice. 
+ My name is Tadeas and I am a just an IT Apprentice. 
 
 Eather stuck behind a monitor or exploring in the wild.
 
